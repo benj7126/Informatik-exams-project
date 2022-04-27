@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f15c1c6c0a337a442b5f7b5282a6b736, type: 3}
+  m_Name: AUG
+  m_EditorClassIdentifier: 
+  name: AUG
+  automatic: 1
+  damage: 4
+  fireRate: 0.08
+  bullet: {fileID: 7945291717462667034, guid: 87d5428cea433814ba14dfd8f46357c9, type: 3}
+  bulletOfsetPlrScale: {x: 0.18, y: 0.02}
+  bulletOfsetEnemyScale: {x: 0.18, y: 0.02}
+  theImageSprite: {fileID: -971290970797381793, guid: d66eb6d199e4a3b43a831d786d74bfb2, type: 3}
+  startAmmo: 40
+  shootingAudio: {fileID: 8300000, guid: a0693f7551535c8478c9eb0a5ed8812a, type: 3}

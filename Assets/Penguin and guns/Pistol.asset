@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f15c1c6c0a337a442b5f7b5282a6b736, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  name: Pistol
+  automatic: 0
+  damage: 4.5
+  fireRate: 0.3
+  bullet: {fileID: 7945291717462667034, guid: 87d5428cea433814ba14dfd8f46357c9, type: 3}
+  bulletOfsetPlrScale: {x: 0.1, y: 0.025}
+  bulletOfsetEnemyScale: {x: 0.1, y: 0.028}
+  theImageSprite: {fileID: 21300000, guid: 7cb9bd944f7758447ad975339a2522cd, type: 3}
+  startAmmo: 0
+  shootingAudio: {fileID: 8300000, guid: e64bdc4f8e0e9f042ab71202055ee9c2, type: 3}

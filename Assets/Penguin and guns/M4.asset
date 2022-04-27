@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f15c1c6c0a337a442b5f7b5282a6b736, type: 3}
+  m_Name: M4
+  m_EditorClassIdentifier: 
+  name: M4
+  automatic: 1
+  damage: 5
+  fireRate: 0.14
+  bullet: {fileID: 7945291717462667034, guid: 87d5428cea433814ba14dfd8f46357c9, type: 3}
+  bulletOfsetPlrScale: {x: 0.24, y: 0.035}
+  bulletOfsetEnemyScale: {x: 0.24, y: 0.035}
+  theImageSprite: {fileID: -3018085488760632329, guid: d66eb6d199e4a3b43a831d786d74bfb2, type: 3}
+  startAmmo: 20
+  shootingAudio: {fileID: 8300000, guid: 170534c214a1bd24c803d26b746718d9, type: 3}

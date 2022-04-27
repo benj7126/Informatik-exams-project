@@ -1,0 +1,5 @@
+For at spille spillet:
+1) Åben mappen
+2) Dobblet klik på [insert name].exe
+3) Læs instruktioner
+4) Start spillet ved at skyde personen der står til højre, og spil
